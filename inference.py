@@ -220,7 +220,7 @@ def inf():
 
         # loads in video
         video_name = '03deb7ad95'
-        video, orig_dims = load_video(video_name + '.mp4')
+        video, orig_dims = load_video('Examples/' + video_name + '.mp4')
         first_frame, img_palette = load_first_frame('00110.png')
         
         processed_first_frame = process_first_frame(first_frame)
