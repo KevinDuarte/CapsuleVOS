@@ -37,7 +37,7 @@ During training and testing, metrics are printed to stdout as well as an output*
 
 ## Saved Weights
 
-Pretrained weights for the network are available [](). To use them for inference, place them in the <code>network_saves_best</code> folder.
+Pretrained weights for the network are available [here](https://drive.google.com/open?id=12zvvqd5i3EVNzPF-hEfq_hi2CEzRRSjS). To use them for inference, place them in the <code>network_saves_best</code> folder.
 
 ## Inference
 
