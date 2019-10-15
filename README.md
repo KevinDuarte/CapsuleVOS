@@ -1,6 +1,8 @@
 ## CapsuleVOS
 
-This is the code for the ICCV 2019 paper CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing. 
+This is the code for the ICCV 2019 paper CapsuleVOS: Semi-Supervised Video Object Segmentation Using Capsule Routing.
+
+Arxiv Link: https://arxiv.org/abs/1910.00132
 
 The network is implemented using TensorFlow 1.4.1.
 
